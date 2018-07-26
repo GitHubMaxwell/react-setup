@@ -1,0 +1,33 @@
+{
+  "name": "react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GitHubMaxwell/react-setup.git"
+  },
+  "author": "maxwell rediker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GitHubMaxwell/react-setup/issues"
+  },
+  "homepage": "https://github.com/GitHubMaxwell/react-setup#readme",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^8.0.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "watchify": "^3.11.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.16.2",
+    "webpack-cli": "^3.1.0"
+  }
+}
